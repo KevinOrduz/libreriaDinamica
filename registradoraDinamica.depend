@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1678284841 source:c:\users\administrador\desktop\registradoradinamica\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"fecha.h"
+	"producto.h"
+
+1678281763 c:\users\administrador\desktop\registradoradinamica\fecha.h
+
+1678281957 source:c:\users\administrador\desktop\registradoradinamica\fecha.c
+	<time.h>
+	<stdio.h>
+	"fecha.h"
+
+1678284047 c:\users\administrador\desktop\registradoradinamica\productos.h
+
+1678284047 source:c:\users\administrador\desktop\registradoradinamica\productos.c
+	<stdio.h>
+	<conio.h>
+	"productos.h"
+
+1678284628 source:c:\users\administrador\desktop\registradoradinamica\producto.c
+
+1678284841 c:\users\administrador\desktop\registradoradinamica\producto.h
+
